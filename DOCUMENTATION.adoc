@@ -1,0 +1,15 @@
+= Dokumentation
+:icons: font
+:icon-set: fa
+:source-highlighter: rouge
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+Fügen Sie hier Ihre Dokumentation ein. Was hier reingehört, wird in der link:README.adoc[`README.adoc`]-Datei beschrieben.
+
+AsciiDoc Syntax Quick Reference: https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
