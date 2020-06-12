@@ -10,6 +10,9 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-Fügen Sie hier Ihre Dokumentation ein. Was hier reingehört, wird in der link:README.adoc[`README.adoc`]-Datei beschrieben.
 
-AsciiDoc Syntax Quick Reference: https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+
+Der Aufbau wurde so geändert, dass die ganze Logik aus Marketing auf mehrere Klassen aufgeteilt wurde.
+Somit wird die Wartbarkeit sowie die Lesbarkeit erhöht. Die Interfaces dienen dazu die Verkopplung zu mindern.
+
+Eine Idee war das die IF Abfragen aufzulösen in den man Polymorphismus benutzt, jedoch würde das ganze es komplizierter machen wodruch die Wartbarkeit sinkt, des Weiteren hat man so alles auf einen Blick und kann schnell weitere Bedingungen einsetzen.
