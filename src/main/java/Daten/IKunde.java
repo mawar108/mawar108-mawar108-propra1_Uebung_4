@@ -8,4 +8,5 @@ public interface IKunde {
 	public String getEmail();
 	public long getId();
 
+
 }

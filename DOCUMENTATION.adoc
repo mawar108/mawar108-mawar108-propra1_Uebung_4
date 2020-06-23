@@ -12,6 +12,7 @@ endif::[]
 
 
 
+
 Der Aufbau wurde so geändert, dass die ganze Logik aus Marketing auf mehrere Klassen aufgeteilt wurde.
 Somit wird die Wartbarkeit sowie die Lesbarkeit erhöht. Die Interfaces dienen dazu die Verkopplung zu mindern.
 

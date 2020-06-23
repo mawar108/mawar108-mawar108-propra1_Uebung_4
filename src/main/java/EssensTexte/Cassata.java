@@ -13,4 +13,5 @@ public class Cassata extends EssenMailTexte{
 		body += covid();
 		return new Mail(subject, body);
 	}
+
 }

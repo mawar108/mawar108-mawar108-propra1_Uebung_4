@@ -15,4 +15,5 @@ public class Tiramisu extends EssenMailTexte{
 		body += covid();
 		return new Mail(subject, body);
 	}
+
 }
