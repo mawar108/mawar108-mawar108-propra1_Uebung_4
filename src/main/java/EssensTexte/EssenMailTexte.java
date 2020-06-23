@@ -12,5 +12,4 @@ public class EssenMailTexte {
 	public String covid() {
 		return "\n\nPS Wir haben natürlich alles für die Hygiene getan. Unsere Tische haben einen Mindestabstand von 2.5m, wir haben Scheiben zwischen den Tischen und alle unsere Bedienungen tragen Masken.";
 	}
-
 }

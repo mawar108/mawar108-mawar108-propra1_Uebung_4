@@ -15,5 +15,4 @@ public class Gelato extends EssenMailTexte{
 			body += covid();
 			return new Mail(subject, body);
 		}
-
 }

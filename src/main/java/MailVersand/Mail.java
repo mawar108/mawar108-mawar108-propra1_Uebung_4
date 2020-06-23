@@ -76,5 +76,4 @@ public class Mail implements IMail{
             e.printStackTrace();
         }
     }
-
 }

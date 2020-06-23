@@ -14,5 +14,4 @@ public class ZuppaInglese extends EssenMailTexte{
 		body += covid();
 		return new Mail(subject, body);
 	}
-
 }

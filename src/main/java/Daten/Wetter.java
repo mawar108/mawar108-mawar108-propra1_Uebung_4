@@ -54,5 +54,4 @@ public class Wetter {
         return new Wetter("20 50");
     }
 
-
 }

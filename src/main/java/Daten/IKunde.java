@@ -7,6 +7,4 @@ public interface IKunde {
 	public String getName();
 	public String getEmail();
 	public long getId();
-
-
 }

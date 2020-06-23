@@ -27,5 +27,4 @@ public class Main {
 			Thread.sleep(SECHS_STUNDEN);
 		}
 	}
-
 }

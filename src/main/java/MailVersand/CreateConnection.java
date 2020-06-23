@@ -26,4 +26,5 @@ public class CreateConnection implements ICreateConnection {
 		kunde.updateLastMailDate(kunde, connection);
 		Mail.sendMail(kunde);
 	}
+
 }
